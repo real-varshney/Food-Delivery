@@ -14,8 +14,9 @@ This project offers a streamlined food ordering experience built with React Nati
 
 ## Screenshots
 
-<img src="https://github.com/real-varshney/Food-Delivery/assets/109132583/1711bd0e-95ec-4a46-a0d6-3a24faf1daff" width="400" height="900">  
+<img src="https://github.com/real-varshney/Food-Delivery/assets/109132583/1711bd0e-95ec-4a46-a0d6-3a24faf1daff" width="400" height="900"> 
 <img src="https://github.com/real-varshney/Food-Delivery/assets/109132583/4bec0cfb-5a9f-4a3c-ad9b-40ddfe1a1cd5" width="400" height="900"> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-------------------------------------------------------
 <img src="https://github.com/real-varshney/Food-Delivery/assets/109132583/c096e8ba-2d68-4abe-82a4-4aae7d4212a3" width="400" height="900">  
 <img src="https://github.com/real-varshney/Food-Delivery/assets/109132583/dfc58846-0790-46f3-a393-69a6b71a74d5" width="400" height="900">  
 
